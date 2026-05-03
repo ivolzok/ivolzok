@@ -6,12 +6,6 @@
 
 <h1 align="center">Иван Козлов</h1>
 <h3 align="center">Backend-разработчик на C# (.NET) и Python | Студент ФИИТ УрФУ</h3>
-<h3 align="center">
-  <a href="mailto:ivolzok@gmail.com">Email</a> • 
-  <a href="https://t.me/ivolzok">Telegram</a> • 
-  <a href="https://github.com/ivolzok">GitHub</a>
-</h3>
-
 ---
 
 ### 🛠️ Технологии и инструменты
@@ -29,7 +23,6 @@
   <!-- Инструменты -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <!-- Тестирование -->
   <img src="https://img.shields.io/badge/NUnit-1E5C96?style=for-the-badge&logo=nunit&logoColor=white" alt="NUnit"/>
   <img src="https://img.shields.io/badge/FakeItEasy-FF6B6B?style=for-the-badge&logo=FakeItEasy&logoColor=white" alt="FakeItEasy"/>
